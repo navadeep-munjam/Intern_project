@@ -1,0 +1,18 @@
+backend/panda8555-83a82-firebase-adminsdk-fbsvc-a7bf1155c3.json
+backend/node_modules/
+backend/.env    
+
+frontend/node_modules/
+frontend/.env
+frontend/build/
+.DS_Store
+.vscode/
+.idea/
+npm-debug.log*
+
+# Local environment variables
+.env
+panda8555-83a82-firebase-adminsdk-fbsvc-a7bf1155c3.json
+node_modules/
+dist/
+    
